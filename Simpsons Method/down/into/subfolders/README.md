@@ -1,1 +1,3 @@
-# Numerical-Methods-Algorithms
+# Simpson's Algorithm
+## Inputs
+## Outputs
